@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#D4C5A9"/>
+  <rect x="0" y="0" width="800" height="500" fill="none" stroke="#C9A24B" stroke-width="2" stroke-dasharray="8,4"/>
+  <g transform="translate(400,220)" text-anchor="middle" fill="#1B3A6B" opacity="0.4">
+    <circle r="40" fill="none" stroke="#1B3A6B" stroke-width="2"/>
+    <rect x="-12" y="-8" width="24" height="16" rx="2" fill="none" stroke="#1B3A6B" stroke-width="1.5"/>
+    <circle cx="0" cy="-14" r="6" fill="none" stroke="#1B3A6B" stroke-width="1.5"/>
+    <path d="M-20 10 L-8 -2 L8 8 L16 -4 L24 10" fill="none" stroke="#1B3A6B" stroke-width="1.5"/>
+  </g>
+  <text x="400" y="285" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#1B3A6B" opacity="0.5">Event Photo Placeholder</text>
+  <text x="400" y="310" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#1B3A6B" opacity="0.35">Replace with your image</text>
+</svg>
